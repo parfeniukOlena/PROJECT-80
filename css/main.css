@@ -1,5 +1,6 @@
 .hero {
-  background-image: url("../images/vr.webp");
+  display: flex;
+  background-image: url("../images/hero.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
